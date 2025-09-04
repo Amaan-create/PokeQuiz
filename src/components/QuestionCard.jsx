@@ -95,9 +95,10 @@ export default function QuestionCard({
           disabled={!selectedOption} // Disable until user selects an option
           className="mt-6 w-full bg-green-600 text-white py-2 rounded-lg disabled:opacity-50 hover:bg-green-700"
         >
-          {isLast ? "Finish Quiz" : "Next"} // Conditional label
+          {isLast ? "Finish Quiz" : "Next"} 
         </button>
       </div>
     </div>
   );
 }
+
