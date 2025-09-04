@@ -29,7 +29,7 @@ Restart Quiz: Retake the quiz without refreshing the page.
 
 Responsive Design: Mobile-friendly UI with background images.
 
-Tech Stack
+# Tech Stack
 
 React.js – Functional components & hooks
 
@@ -39,11 +39,11 @@ Framer Motion – Animations
 
 Local JSON – Questions database
 
-Demo
+# Demo
 https://poke-quiz-seven.vercel.app/
 
 
-Usage
+# Usage
 
 Enter your name and select a difficulty level.
 
@@ -57,7 +57,7 @@ Click Restart Quiz to try again.
 
 
 
-Components Overview
+# Components Overview
 
 Loader.jsx – Animated Pokéball loader with fade-in text.
 
@@ -71,7 +71,7 @@ Timer.jsx – Countdown logic per question.
 
 
 
-Future Enhancements
+# Future Enhancements
 
 Add hints or lifelines for questions.
 
