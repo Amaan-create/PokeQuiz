@@ -1,0 +1,218 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "question": "Who's that Pokemon?",
+      "options": ["Pikachu", "Bulbasaur", "Charmander", "Ditto"],
+      "answer": "Bulbasaur",
+      "image": "/pokemons/bulbasaur.svg"
+    },
+    {
+      "id": 2,
+      "question": "Who's that Pokemon?",
+      "options": ["Beedrill", "Cocoon", "Wormie", "Caterpie"],
+      "answer": "Caterpie",
+      "image": "/pokemons/caterpie.svg"
+    },
+    {
+      "id": 3,
+      "question": "Who's that Pokemon?",
+      "options": ["Voltorb", "Electrode", "Pokeball", "Spheron"],
+      "answer": "Electrode",
+      "image": "/pokemons/electrode.svg"
+    },
+    {
+      "id": 4,
+      "question": "Who's that Pokemon?",
+      "options": ["Lickitung", "LickyLicky", "Cliffairy", "Butterfree"],
+      "answer": "Lickitung",
+      "image": "/pokemons/lickitung.svg"
+    },
+    {
+      "id": 5,
+      "question": "Who's that Pokemon?",
+      "options": ["Metapod", "Cocoona", "Grasshoppie", "Veronac"],
+      "answer": "Metapod",
+      "image": "/pokemons/metapod.svg"
+    },
+    {
+      "id": 6,
+      "question": "Who's that Pokemon?",
+      "options": ["Gengar", "Haunter", "Gastly", "Mimikyu"],
+      "answer": "Gengar",
+      "image": "/pokemons/gengar.svg"
+    },
+    {
+      "id": 7,
+      "question": "Who's that Pokemon?",
+      "options": ["Weezing", "Koffing", "Muk", "Grimer"],
+      "answer": "Koffing",
+      "image": "/pokemons/weezing.svg"
+    },
+    {
+      "id": 8,
+      "question": "Who's that Pokemon?",
+      "options": ["Gyarados", "Magikarp", "Seaking", "Goldeen"],
+      "answer": "Gyarados",
+      "image": "/pokemons/gyarados.svg"
+    },
+    {
+      "id": 9,
+      "question": "Who's that Pokemon?",
+      "options": ["Magikarp", "Gyarados", "Seadra", "Goldeen"],
+      "answer": "Magikarp",
+      "image": "/pokemons/magikarp.svg"
+    },
+    {
+      "id": 10,
+      "question": "Who's that Pokemon?",
+      "options": ["Blastoise", "Squirtle", "Wartortle", "Lapras"],
+      "answer": "Blastoise",
+      "image": "/pokemons/blastoise.svg"
+    }
+  ],
+  "medium": [
+    {
+      "id": 1,
+      "question": "Who's that Pokemon?",
+      "options": ["Voltorb", "Electrode", "Pikachu", "Magnemite"],
+      "answer": "Voltorb",
+      "image": "/pokemons/voltorb.svg"
+    },
+    {
+      "id": 2,
+      "question": "Who's that Pokemon?",
+      "options": ["Exeggcute", "Exeggutor", "Tangela", "Oddish"],
+      "answer": "Exeggutor",
+      "image": "/pokemons/exeggutor.svg"
+    },
+    {
+      "id": 3,
+      "question": "Who's that Pokemon?",
+      "options": ["Hitmonlee", "Hitmonchan", "Machop", "Machoke"],
+      "answer": "Hitmonlee",
+      "image": "/pokemons/hitmonlee.svg"
+    },
+    {
+      "id": 4,
+      "question": "Who's that Pokemon?",
+      "options": ["Hitmonchan", "Hitmonlee", "Machop", "Machamp"],
+      "answer": "Hitmonchan",
+      "image": "/pokemons/hitmonchan.svg"
+    },
+    {
+      "id": 5,
+      "question": "Who's that Pokemon?",
+      "options": ["Koffing", "Weezing", "Grimer", "Muk"],
+      "answer": "Weezing",
+      "image": "/pokemons/koffing.svg"
+    },
+    {
+      "id": 6,
+      "question": "Who's that Pokemon?",
+      "options": ["Tangela", "Exeggcute", "Oddish", "Bellsprout"],
+      "answer": "Tangela",
+      "image": "/pokemons/tangela.svg"
+    },
+    {
+      "id": 7,
+      "question": "Who's that Pokemon?",
+      "options": ["Kangaskhan", "Cubone", "Marowak", "Rhyhorn"],
+      "answer": "Kangaskhan",
+      "image": "/pokemons/kangaskhan.svg"
+    },
+    {
+      "id": 8,
+      "question": "Who's that Pokemon?",
+      "options": ["Electabuzz", "Jolteon", "Pikachu", "Raichu"],
+      "answer": "Electabuzz",
+      "image": "/pokemons/electabuzz.svg"
+    },
+    {
+      "id": 9,
+      "question": "Who's that Pokemon?",
+      "options": ["Magmar", "Flareon", "Charizard", "Vulpix"],
+      "answer": "Magmar",
+      "image": "/pokemons/magmar.svg"
+    },
+    {
+      "id": 10,
+      "question": "Who's that Pokemon?",
+      "options": ["Tauros", "Rhydon", "Kangaskhan", "Pinsir"],
+      "answer": "Tauros",
+      "image": "/pokemons/tauros.svg"
+    }
+  ],
+  "hard": [
+    {
+      "id": 1,
+      "question": "Who's that Pokemon?",
+      "options": ["Lapras", "Articuno", "Vaporeon", "Dewgong"],
+      "answer": "Lapras",
+      "image": "/pokemons/lapras.svg"
+    },
+    {
+      "id": 2,
+      "question": "Who's that Pokemon?",
+      "options": ["Rhydon", "Slughorn", "Rhyhorn", "Nidoqueen"],
+      "answer": "Rhydon",
+      "image": "/pokemons/rhydon.svg"
+    },
+    {
+      "id": 3,
+      "question": "Who's that Pokemon?",
+      "options": ["Chansey", "Blissey", "Clefable", "Jigglypuff"],
+      "answer": "Chansey",
+      "image": "/pokemons/chansey.svg"
+    },
+    {
+      "id": 4,
+      "question": "Who's that Pokemon?",
+      "options": ["Rhyhorn", "Rhydon", "Onix", "Geodude"],
+      "answer": "Rhyhorn",
+      "image": "/pokemons/rhyhorn.svg"
+    },
+    {
+      "id": 5,
+      "question": "Who's that Pokemon?",
+      "options": ["Alakazam", "Kadabra", "Hypno", "Mr. Mime"],
+      "answer": "Alakazam",
+      "image": "/pokemons/alakazam.svg"
+    },
+    {
+      "id": 6,
+      "question": "Who's that Pokemon?",
+      "options": ["Rapidash", "Ponyta", "Arcanine", "Ninetales"],
+      "answer": "Rapidash",
+      "image": "/pokemons/rapidash.svg"
+    },
+    {
+      "id": 7,
+      "question": "Who's that Pokemon?",
+      "options": ["Muk", "Grimer", "Weezing", "Koffing"],
+      "answer": "Muk",
+      "image": "/pokemons/muk.svg"
+    },
+    {
+      "id": 8,
+      "question": "Who's that Pokemon?",
+      "options": ["Gastly", "Haunter", "Gengar", "Misdreavous"],
+      "answer": "Gastly",
+      "image": "/pokemons/gastly.svg"
+    },
+    {
+      "id": 9,
+      "question": "Who's that Pokemon?",
+      "options": ["Haunter", "Gastly", "Gengar", "Misdreavous"],
+      "answer": "Haunter",
+      "image": "/pokemons/haunter.svg"
+    },
+    {
+      "id": 10,
+      "question": "Who's that Pokemon?",
+      "options": ["Quilava", "Typhlosion", "Dewgong", "Donphan"],
+      "answer": "Typhlosion",
+      "image": "/pokemons/typhlosion.svg"
+    }
+  ]
+}
